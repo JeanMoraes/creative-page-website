@@ -1,0 +1,8 @@
+.stroke {
+    -webkit-text-stroke: 1px #FFF;
+
+    span {
+        -webkit-text-stroke: 1px #F7E626;
+        @apply text-primary;
+    }
+}
